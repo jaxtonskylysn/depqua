@@ -1,0 +1,2 @@
+# depqua
+qua huong toi
